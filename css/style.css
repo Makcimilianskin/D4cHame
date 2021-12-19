@@ -1,0 +1,55 @@
+.Logo {
+    color: aqua;
+    left: 340px;
+    top: 50px;
+    position: absolute;
+    list-style-type: none;
+    width: 98px;
+    height: 33px;
+    font-size: 30px;
+    line-height: 37px;
+}
+.menu ul :not(.Logo) {
+    color: aqua;
+    position: relative;
+    width: 52px;
+    height: 17px;
+    left: 600px;
+    top: 32px;
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+    margin: 0 30px 10px 0;
+}
+
+#L1  {
+    position: absolute;
+    font-weight:bold;
+    width: 180px;
+    height: 37px;
+    left: 860px;
+    top: 130px;
+    font-size: 30px;
+    line-height: 37px;
+}
+#L2 {
+    position: absolute;
+    width: 275px;
+    height: 37px;
+    left: 840px;
+    top: 170px;
+    font-size: 30px;
+    line-height: 37px;
+    font-weight:bold;
+}
+.Line {
+    background-color: red;
+    position: absolute;
+    width: 60px;
+    height: 4px;
+    left: 930px;
+    top: 262px;
+}
+.mein img {
+    height: 50px;
+}
